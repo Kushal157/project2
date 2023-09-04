@@ -2,7 +2,7 @@
 <head>
 <title> project 2</title>
 </head>
-<body bgcolor='#00000'>
+<body>
 git initialization and uploding in cloud repositary
 </body>
 </html>
